@@ -1,6 +1,5 @@
-This program consists of a simple form that can be altered to fit into other projects.
+A simple form that includes:
 
-Form features:
 - Text Fields
 - Password Field
 - Date Selector
